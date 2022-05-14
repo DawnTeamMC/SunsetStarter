@@ -15,18 +15,15 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "com.hugman.template.Template"
+      "org.example.MODID.MODCLASS"
     ],
     "client": [
-      "com.hugman.template.TemplateClient"
+      "org.example.MODID.MODCLASSClient"
     ],
     "modmenu": [
-      "com.hugman.template.config.TemplateModMenuIntegration"
+      "org.example.MODID.config.MODCLASSModMenuIntegration"
     ]
   },
-  "mixins": [
-    "template.mixins.json"
-  ],
   "depends": {
     "minecraft": ">=1.18.2",
     "fabric": "*",
@@ -45,10 +42,6 @@
         "modmenu.crowdin": "https://crowdin.com/project/dawnteam",
         "modmenu.wiki": "https://github.com/DawnTeamMC/${github_name}/wiki/"
       }
-    },
-    "modupdater": {
-      "strategy": "curseforge",
-      "projectID": %...%
     }
   },
   "license": "LGPL v3.0"

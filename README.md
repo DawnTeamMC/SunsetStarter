@@ -1,7 +1,7 @@
-[![%mod_name%](https://dawnteammc.github.io/%mod_id%/images/header.png)](https://dawnteammc.github.io/%mod_id%)
+[![MODNAME](https://dawnteammc.github.io/MODID/images/header.png)](https://dawnteammc.github.io/MODID)
 
-# %...% %mod_name%
-[![Latest release](https://img.shields.io/github/release/DawnTeamMC/%MOD_NAME%.svg)](https://github.com/DawnTeamMC/%github_name%/releases/latest)
+# MODNAME
+[![Latest release](https://img.shields.io/github/release/DawnTeamMC/MODNAME.svg)](https://github.com/DawnTeamMC/%github_name%/releases/latest)
 [![CurseForge downloads](http://cf.way2muchnoise.eu/full_%curseforge_slug%_downloads.svg)](https://www.curseforge.com/minecraft/mc-mods/%curseforge_slug%)
 [![License (LGPL v3.0)](https://img.shields.io/badge/code%20license-LGPL%20v3.0-green.svg?style=flat-square)](https://www.gnu.org/licenses/lgpl-3.0.en.html)
 [![GitHub stars](https://img.shields.io/github/stars/DawnTeamMC/%github_name%.svg?style=flat-square)]()
@@ -9,28 +9,28 @@
 [![Discord user count](https://img.shields.io/discord/504608980799062036.svg?logoColor=FFFFFF&logo=discord&color=7289DA&style=flat-square)](https://discord.gg/8ksTVJu)
 [![Twitter followers](https://img.shields.io/twitter/follow/DawnTeamMC.svg?logo=twitter&label=twitter&style=flat-square)](https://twitter.com/DawnTeamMC)
 
-%mod_name% is a mod for the latest version of Minecraft that %...%.
+MODNAME is a mod for the latest version of Minecraft that WIP.
 
-**You can visit the [official website for %mod_name% for more information](https://dawnteammc.github.io/%mod_id%).**
+**You can visit the [official website for MODNAME for more information](https://dawnteammc.github.io/MODID).**
 
 ## 👾 Features
-%...%
+WIP
 
 ## 📦 Download
-We use [CurseForge](https://www.curseforge.com/minecraft/mc-mods/%curseforge_slug%) and [Modrinth](https://modrinth.com/mod/%modrinth_slug%) to publish **stable builds** of %mod_name% for Minecraft.
+We use [CurseForge](https://www.curseforge.com/minecraft/mc-mods/%curseforge_slug%) and [Modrinth](https://modrinth.com/mod/%modrinth_slug%) to publish **stable builds** of MODNAME for Minecraft.
 
 You can download the latest stable builds from both pages without signing up for an account, although [downloading on CurseForge](https://www.curseforge.com/minecraft/mc-mods/%curseforge_slug%) is currently preferred.
 
 ### Required mods
-⚠ %mod_name% **needs** the following mods to be installed:
+⚠ MODNAME **needs** the following mods to be installed:
 
 - Fabric API: [GitHub](https://github.com/FabricMC/fabric) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fabric-api) / [Modrinth](https://modrinth.com/mod/fabric-api)
 - Dawn API: [GitHub](https://github.com/DawnTeamMC/DawnAPI) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/dawn) / [Modrinth](https://modrinth.com/mod/dawn)
 
 ### Compatible mods
-%mod_name% is compatible with the following mods:
+MODNAME is compatible with the following mods:
 
-%...%
+WIP
 
 ## 🐛 Reporting bugs
 If you're running into bugs or other problems, feel free to open an issue on our [issue tracker](https://github.com/DawnTeamMC/%github_name%/issues).
@@ -45,7 +45,7 @@ You can help translate the Dawn Team mods to any language supported in Minecraft
 ## ❤️ Support
 [![Patreon supporters](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3DHugman%26type%3Dpatrons&style=flat-square)](https://patreon.com/Hugman)
 
-You can support %mod_name% on the [Patreon page of the founder, main developer and maintainer of the Dawn Team mods (Hugman)](https://patreon.com/Hugman).
+You can support MODNAME on the [Patreon page of the founder, main developer and maintainer of the Dawn Team mods (Hugman)](https://patreon.com/Hugman).
 
 By supporting Hugman, you can get access to the following:
 

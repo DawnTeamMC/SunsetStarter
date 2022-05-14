@@ -1,7 +1,0 @@
-{
-  "variants": {
-    "": {
-      "model": "%mod_id%:block/template_block"
-    }
-  }
-}

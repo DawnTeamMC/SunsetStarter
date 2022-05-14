@@ -1,8 +1,0 @@
-{
-  "modmenu.descriptionTranslation.%mod_id%": "Template description",
-
-  "block.%mod_id%.template_block": "Template Block",
-
-  "text.autoconfig.%mod_id%.title": "Template config",
-  "text.autoconfig.%mod_id%.option.items_per_click": "Items per click"
-}
