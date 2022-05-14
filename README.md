@@ -1,10 +1,10 @@
 [![MODNAME](https://dawnteammc.github.io/MODID/images/header.png)](https://dawnteammc.github.io/MODID)
 
 # MODNAME
-[![Latest release](https://img.shields.io/github/release/DawnTeamMC/MODNAME.svg)](https://github.com/DawnTeamMC/%github_name%/releases/latest)
-[![CurseForge downloads](http://cf.way2muchnoise.eu/full_%curseforge_slug%_downloads.svg)](https://www.curseforge.com/minecraft/mc-mods/%curseforge_slug%)
+[![Latest release](https://img.shields.io/github/release/DawnTeamMC/GITHUB_NAME.svg)](https://github.com/DawnTeamMC/GITHUB_NAME/releases/latest)
+[![CurseForge downloads](http://cf.way2muchnoise.eu/full_CURSEFORGE_SLUG_downloads.svg)](https://www.curseforge.com/minecraft/mc-mods/%curseforge_slug%)
 [![License (LGPL v3.0)](https://img.shields.io/badge/code%20license-LGPL%20v3.0-green.svg?style=flat-square)](https://www.gnu.org/licenses/lgpl-3.0.en.html)
-[![GitHub stars](https://img.shields.io/github/stars/DawnTeamMC/%github_name%.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/DawnTeamMC/GITHUB_NAME.svg?style=flat-square)]()
 
 [![Discord user count](https://img.shields.io/discord/504608980799062036.svg?logoColor=FFFFFF&logo=discord&color=7289DA&style=flat-square)](https://discord.gg/8ksTVJu)
 [![Twitter followers](https://img.shields.io/twitter/follow/DawnTeamMC.svg?logo=twitter&label=twitter&style=flat-square)](https://twitter.com/DawnTeamMC)
@@ -17,9 +17,9 @@ MODNAME is a mod for the latest version of Minecraft that WIP.
 WIP
 
 ## 📦 Download
-We use [CurseForge](https://www.curseforge.com/minecraft/mc-mods/%curseforge_slug%) and [Modrinth](https://modrinth.com/mod/%modrinth_slug%) to publish **stable builds** of MODNAME for Minecraft.
+We use [CurseForge](https://www.curseforge.com/minecraft/mc-mods/CURSEFORGE_SLUG) and [Modrinth](https://modrinth.com/mod/MODRINTH_SLUG) to publish **stable builds** of MODNAME for Minecraft.
 
-You can download the latest stable builds from both pages without signing up for an account, although [downloading on CurseForge](https://www.curseforge.com/minecraft/mc-mods/%curseforge_slug%) is currently preferred.
+You can download the latest stable builds from both pages without signing up for an account, although [downloading on CurseForge](https://www.curseforge.com/minecraft/mc-mods/CURSEFORGE_SLUG) is currently preferred.
 
 ### Required mods
 ⚠ MODNAME **needs** the following mods to be installed:
@@ -33,10 +33,10 @@ MODNAME is compatible with the following mods:
 WIP
 
 ## 🐛 Reporting bugs
-If you're running into bugs or other problems, feel free to open an issue on our [issue tracker](https://github.com/DawnTeamMC/%github_name%/issues).
+If you're running into bugs or other problems, feel free to open an issue on our [issue tracker](https://github.com/DawnTeamMC/GITHUB_NAME/issues).
 
 ## 🔧 Contributing
-Please refer to the [contributing guide](https://github.com/DawnTeamMC/%github_name%/blob/master/CONTRIBUTING.md) for more information.
+Please refer to the [contributing guide](https://github.com/DawnTeamMC/GITHUB_NAME/blob/master/CONTRIBUTING.md) for more information.
 
 ### Translations
 The Dawn Team mods makes use of crowd sourced translations using Crowdin.  

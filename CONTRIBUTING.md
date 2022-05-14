@@ -2,7 +2,7 @@
 Localization of the Dawn Team mods is managed through the [Crowdin](https://crowdin.com/project/dawnteam) project.
 
 ### Submitting ideas
-You can submit ideas for new features over on the [issue tracker](https://github.com/DawnTeamMC/%github_name%/issues).
+You can submit ideas for new features over on the [issue tracker](https://github.com/DawnTeamMC/GITHUB_NAME/issues).
 
 ### Getting started for code modification
 We're excited to hear that you're interested in contributing to MODNAME!
