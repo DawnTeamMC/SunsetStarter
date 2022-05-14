@@ -5,7 +5,6 @@ from os import path
 from pathlib import Path
 import shutil
 
-
 def process_file(file_path: Path, is_java: bool = False):
     print("Processing file", file_path)
     f = open(str(file_path), mode="r", encoding="utf-8")
@@ -104,7 +103,7 @@ for content in walk(Path(".github")):
 
 process_file(Path("gradle.properties"))
 
-process_file(Path("README.md"))
+process_file(Path("README_NEXT.md"))
 process_file(Path("CONTRIBUTING.md"))
 process_file(Path("modrinth.md"))
 process_file(Path("curseforge.html"))
@@ -116,5 +115,8 @@ org_example = path.join(java_root, "org", "example")
 shutil.rmtree(path.join(example_assets))
 shutil.rmtree(path.join(example_data))
 shutil.rmtree(path.join(org_example, "MODID"))
+
+os.remove("README.md")
+os.rename("README_NEXT.md", "README.md")
 
 print("Your mod has been set up!")
